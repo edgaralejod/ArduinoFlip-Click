@@ -1,2 +1,3 @@
-# WaterQualityIoT
-Repository for the water quality project.
+# ArduinoFlip-Click
+
+Arduino code for the mikroe Flip&Click
